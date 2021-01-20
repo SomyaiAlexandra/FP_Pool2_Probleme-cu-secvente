@@ -1,0 +1,2 @@
+C:\Users\somya\source\repos\FP_Pool2_Probleme-cu-secvente\Problema_12\Problema_12\obj\Debug\Problema_12.csprojAssemblyReference.cache
+C:\Users\somya\source\repos\FP_Pool2_Probleme-cu-secvente\Problema_12\Problema_12\obj\Debug\Problema_12.csproj.CoreCompileInputs.cache
