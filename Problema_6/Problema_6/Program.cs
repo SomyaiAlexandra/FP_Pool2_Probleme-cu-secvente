@@ -8,6 +8,8 @@ namespace Problema_6
 {
     class Program
     {
+        // Se da o secventa de n numere.
+        // Sa se determine daca numerele din secventa sunt in ordine crescatoare.
         static Random rnd = new Random();
         static void Main(string[] args)
         {
